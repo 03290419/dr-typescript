@@ -52,4 +52,6 @@
     console.log(user.fullName);
     user.firstName = 'keng';
     console.log(user.fullName);
+    user.internalAge = 32;
+    user.age = 6;
 }
